@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Gautam Kothari
-12345
-=======
-asasasasas asakhs;jakasdlkasldsa;d'asd
->>>>>>> master
+asasasas
+asasasas
